@@ -6,37 +6,37 @@
     <message>
         <location filename="../ui/shell/aboutdialog.ui" line="20"/>
         <source>About LXQt Organizer</source>
-        <translation type="unfinished"></translation>
+        <translation>Acerca do Organizador do LXQt</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.ui" line="42"/>
         <source>&lt;center&gt;&lt;span style=&quot;font-size:16pt; font-weight:600;&quot;&gt;LXQt Organizer %1&lt;/span&gt;&lt;/center&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;center&gt;&lt;span style=&quot;font-size:16pt; font-weight:600;&quot;&gt;Organizador do LXQt %1&lt;/span&gt;&lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.ui" line="55"/>
         <source>Lightweight personal information manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestor de informações pessoais</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.ui" line="68"/>
         <source>&lt;center&gt;&lt;a href=&quot;https://github.com/lxqt/organizer&quot;&gt;https://github.com/lxqt/organizer&lt;/a&gt;&lt;br/&gt;LXQt Project: &lt;a href=&quot;https://lxqt-project.org&quot;&gt;https://lxqt-project.org&lt;/a&gt;&lt;/center&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;center&gt;&lt;a href=&quot;https://github.com/lxqt/organizer&quot;&gt;https://github.com/lxqt/organizer&lt;/a&gt;&lt;br/&gt;Projeto LXQt: &lt;a href=&quot;https://lxqt-project.org&quot;&gt;https://lxqt-project.org&lt;/a&gt;&lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.ui" line="85"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Acerca</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.ui" line="114"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Autores</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.ui" line="143"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licença</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.cpp" line="54"/>

@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="it">
+<TS version="2.1" language="bg">
 <context>
     <name>AboutDialog</name>
     <message>
         <location filename="../ui/shell/aboutdialog.ui" line="20"/>
         <source>About LXQt Organizer</source>
-        <translation>Informazioni su LXQt Organizer</translation>
+        <translation>Относно LXQt Organizer</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.ui" line="42"/>
         <source>&lt;center&gt;&lt;span style=&quot;font-size:16pt; font-weight:600;&quot;&gt;LXQt Organizer %1&lt;/span&gt;&lt;/center&gt;</source>
-        <translation>&lt;center&gt;&lt;span style=&quot;font-size:16pt; font-weight:600;&quot;&gt;Organizer LXQt %1&lt;/span&gt;&lt;/center&gt;</translation>
+        <translation>&lt;center&gt;&lt;span style=&quot;font-size:16pt; font-weight:600;&quot;&gt;LXQt Органайзър %1&lt;/span&gt;&lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.ui" line="55"/>
         <source>Lightweight personal information manager</source>
-        <translation>Manager leggero di informazioni personali</translation>
+        <translation>Лек мениджър на лична информация</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.ui" line="68"/>
         <source>&lt;center&gt;&lt;a href=&quot;https://github.com/lxqt/organizer&quot;&gt;https://github.com/lxqt/organizer&lt;/a&gt;&lt;br/&gt;LXQt Project: &lt;a href=&quot;https://lxqt-project.org&quot;&gt;https://lxqt-project.org&lt;/a&gt;&lt;/center&gt;</source>
-        <translation>&lt;center&gt;&lt;a href=&quot;https://github.com/lxqt/organizer&quot;&gt;https://github.com/lxqt/organizer&lt;/a&gt;&lt;br/&gt;Progetto LXQt: &lt;a href=&quot;https://lxqt-project.org&quot;&gt;https://lxqt-project.org&lt;/a&gt;&lt;/center&gt;</translation>
+        <translation>&lt;center&gt;&lt;a href=&quot;https://github.com/lxqt/organizer&quot;&gt;https://github.com/lxqt/organizer&lt;/a&gt;&lt;br/&gt;Проект LXQt: &lt;a href=&quot;https://lxqt-project.org&quot;&gt;https://lxqt-project.org&lt;/a&gt;&lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.ui" line="85"/>
         <source>About</source>
-        <translation>Informazioni</translation>
+        <translation>Относно</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.ui" line="114"/>
         <source>Authors</source>
-        <translation>Autori</translation>
+        <translation>Автори</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.ui" line="143"/>
         <source>License</source>
-        <translation>Licenza</translation>
+        <translation>Лиценз</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.cpp" line="54"/>
         <source>LXQt Organizer is a Qt lightweight personal information manager developed by Basil Crow</source>
-        <translation>Organizer LXQt è un manager di informazioni personali leggero in Qt sviluppato da Basil Crow</translation>
+        <translation>LXQt Organizer е лек мениджър на лична информация, базиран на Qt, разработен от Basil Crow</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.cpp" line="56"/>
         <source>Built with Qt and LXQt libraries.</source>
-        <translation>Costruito con Qt e librerie LXQt.</translation>
+        <translation>Създадено с библиотеките Qt и LXQt.</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.cpp" line="65"/>
         <source>Programming:</source>
-        <translation>Programmazione:</translation>
+        <translation>Програмиране:</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.cpp" line="65"/>
         <source>Maintained by:</source>
-        <translation>Mantenuto da:</translation>
+        <translation>Поддържан от:</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.cpp" line="71"/>
         <source>is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License, version 2 or later.</source>
-        <translation>è software gratuito:; puoi redistribuirlo e/o modificarlo secondo i termini della GNU General Public License, versione 2 o successiva.</translation>
+        <translation>е свободен софтуер; можете да го разпространявате и/или модифицирате съгласно условията на Общия обществен лиценз на GNU, версия 2 или по-късна.</translation>
     </message>
     <message>
         <location filename="../ui/shell/aboutdialog.cpp" line="73"/>
         <source>It is distributed in the hope that it will be useful, but without any warranty.</source>
-        <translation>Viene distribuito nella speranza che possa essere utile, ma senza alcuna garanzia.</translation>
+        <translation>Разпространява се с надеждата да бъде полезен, но без никаква гаранция.</translation>
     </message>
 </context>
 <context>
@@ -74,63 +74,63 @@
     <message>
         <location filename="../ui/panes/calendarpaneutils.cpp" line="126"/>
         <source>Priority: High</source>
-        <translation>Priorità: Alta</translation>
+        <translation>Приоритет: висок</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpaneutils.cpp" line="128"/>
         <source>Priority: Low</source>
-        <translation>Priorità: Bassa</translation>
+        <translation>Приоритет: нисък</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpaneutils.cpp" line="130"/>
         <source>Priority: Medium</source>
-        <translation>Priorità: Bassa</translation>
+        <translation>Приоритет: среден</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpane.cpp" line="47"/>
         <source>Completed</source>
-        <translation>Completato</translation>
+        <translation>Завършени</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpane.cpp" line="48"/>
         <source>Not Completed</source>
-        <translation>Non completato</translation>
+        <translation>Незавършено</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpane.cpp" line="61"/>
         <source>All day</source>
-        <translation>Tutto il giorno</translation>
+        <translation>Цял ден</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpane.cpp" line="71"/>
         <source>Time: %1</source>
-        <translation>Tempo: %1</translation>
+        <translation>Час: %1</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpane.cpp" line="77"/>
         <source>Time: %1 - %2</source>
-        <translation>Tempo: %1 - %2</translation>
+        <translation>Час: %1 - %2</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpane.cpp" line="93"/>
         <source>Due: %1</source>
-        <translation>Scadenza: %1</translation>
+        <translation>Краен срок: %1</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpane.cpp" line="275"/>
         <source>Calendar</source>
-        <translation>Calendario</translation>
+        <translation>Календар</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpane.cpp" line="325"/>
         <source>%1 event(s), %2 task(s)</source>
-        <translation>%1 evento/i, %2 compito/i</translation>
+        <translation>%1 събитие(я), %2 задача(и)</translation>
     </message>
     <message>
-        <location filename="../ui/panes/calendarpane.cpp" line="685"/>
-        <location filename="../ui/panes/calendarpane.cpp" line="702"/>
+        <location filename="../ui/panes/calendarpane.cpp" line="679"/>
+        <location filename="../ui/panes/calendarpane.cpp" line="696"/>
         <source>Calendar: %1</source>
-        <translation>Calendario: %1</translation>
+        <translation>Календар: %1</translation>
     </message>
 </context>
 <context>
@@ -154,7 +154,7 @@
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="675"/>
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="681"/>
         <source>save</source>
-        <translation>salva</translation>
+        <translation>Запазване</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="372"/>
@@ -170,13 +170,13 @@
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="653"/>
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="664"/>
         <source>event</source>
-        <translation>evento</translation>
+        <translation>събитие</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="390"/>
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="541"/>
         <source>edit</source>
-        <translation>modifica</translation>
+        <translation>Редакция</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="489"/>
@@ -192,12 +192,12 @@
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="675"/>
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="681"/>
         <source>task</source>
-        <translation>compito</translation>
+        <translation>задача</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="569"/>
         <source>move</source>
-        <translation>muovi</translation>
+        <translation>Преместване</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="590"/>
@@ -205,39 +205,39 @@
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="622"/>
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="642"/>
         <source>delete</source>
-        <translation>elimina</translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="598"/>
         <source>selected task</source>
-        <translation>seleziona compito</translation>
+        <translation>избрана задача</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="601"/>
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="634"/>
-        <location filename="../ui/panes/calendarpanecontroller.cpp" line="741"/>
+        <location filename="../ui/panes/calendarpanecontroller.cpp" line="738"/>
         <source>Organizer</source>
-        <translation>Organizer</translation>
+        <translation>Органайзер</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="602"/>
         <source>Delete task &quot;%1&quot;?</source>
-        <translation>Vuoi eliminare il compito &quot;%1&quot;?</translation>
+        <translation>Изтриване на задача &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="630"/>
         <source>selected event</source>
-        <translation>evento selezionato</translation>
+        <translation>избрано събитие</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpanecontroller.cpp" line="632"/>
         <source>Delete event &quot;%1&quot;?</source>
-        <translation>Vuoi eliminare l&apos;evento &quot;%1&quot;?</translation>
+        <translation>Изтриване на събитието „%1“?</translation>
     </message>
     <message>
-        <location filename="../ui/panes/calendarpanecontroller.cpp" line="741"/>
+        <location filename="../ui/panes/calendarpanecontroller.cpp" line="738"/>
         <source>No writable calendar collection is available.</source>
-        <translation>Nessuna collezione calendario scrivibile è disponibile.</translation>
+        <translation>Няма налична календарна колекция за запис.</translation>
     </message>
 </context>
 <context>
@@ -246,93 +246,93 @@
         <location filename="../ui/panes/calendarpaneutils.cpp" line="173"/>
         <location filename="../ui/panes/calendarpaneutils.cpp" line="223"/>
         <source>New Event</source>
-        <translation>Nuovo evento</translation>
+        <translation>Ново събитие</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpaneutils.cpp" line="177"/>
         <source>New</source>
-        <translation>Nuovo</translation>
+        <translation>Нов</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpaneutils.cpp" line="179"/>
         <source>New Task</source>
-        <translation>Nuovo Compito</translation>
+        <translation>Нова задача</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpaneutils.cpp" line="183"/>
         <source>Task</source>
-        <translation>Compito</translation>
+        <translation>Задача</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpaneutils.cpp" line="185"/>
         <source>Edit</source>
-        <translation>Modifica</translation>
+        <translation>Редактиране</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpaneutils.cpp" line="189"/>
         <source>Delete</source>
-        <translation>Elimina</translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpaneutils.cpp" line="194"/>
         <source>Find</source>
-        <translation>Trova</translation>
+        <translation>Търсене</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpaneutils.cpp" line="199"/>
         <source>Find Next</source>
-        <translation>Trova il prossimo</translation>
+        <translation>Търсене на следващ</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpaneutils.cpp" line="204"/>
         <source>Find Previous</source>
-        <translation>Trova il precendente</translation>
+        <translation>Търсене на предходен</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpaneutils.cpp" line="226"/>
         <source>Edit Event</source>
-        <translation>Modifica evento</translation>
+        <translation>Редакция на събитие</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpaneutils.cpp" line="229"/>
         <source>Mark as Not Completed</source>
-        <translation>Spunta come Non Completata</translation>
+        <translation>Маркиране като незавършено</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpaneutils.cpp" line="230"/>
         <source>Mark as Completed</source>
-        <translation>Spunta come Completata</translation>
+        <translation>Маркиране като завършено</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpaneutils.cpp" line="232"/>
         <source>Open URL</source>
-        <translation>Apri URL</translation>
+        <translation>Отваряне на URL</translation>
     </message>
     <message>
-        <location filename="../ui/panes/calendarpaneutils.cpp" line="235"/>
+        <location filename="../ui/panes/calendarpaneutils.cpp" line="234"/>
         <source>Open Attachment</source>
-        <translation>Apri allegato</translation>
+        <translation>Отваряне на прикачен файл</translation>
     </message>
     <message>
-        <location filename="../ui/panes/calendarpaneutils.cpp" line="238"/>
+        <location filename="../ui/panes/calendarpaneutils.cpp" line="237"/>
         <source>Delete Event</source>
-        <translation>Elimina evento</translation>
+        <translation>Изтриване на събитие</translation>
+    </message>
+    <message>
+        <location filename="../ui/panes/calendarpaneutils.cpp" line="264"/>
+        <location filename="../ui/panes/calendarpaneutils.cpp" line="271"/>
+        <source>Organizer</source>
+        <translation>Организатор</translation>
     </message>
     <message>
         <location filename="../ui/panes/calendarpaneutils.cpp" line="265"/>
-        <location filename="../ui/panes/calendarpaneutils.cpp" line="273"/>
-        <source>Organizer</source>
-        <translation>Organizer</translation>
-    </message>
-    <message>
-        <location filename="../ui/panes/calendarpaneutils.cpp" line="266"/>
         <source>Could not open the event URL.</source>
-        <translation>Non è possibile aprire URL evento.</translation>
+        <translation>Неуспешно отваряне на URL адреса на събитието.</translation>
     </message>
     <message>
-        <location filename="../ui/panes/calendarpaneutils.cpp" line="274"/>
+        <location filename="../ui/panes/calendarpaneutils.cpp" line="272"/>
         <source>Could not open the event attachment.</source>
-        <translation>Non è possibile aprire l&apos;allegato evento.</translation>
+        <translation>Неуспешно отваряне на прикачения файл към събитието.</translation>
     </message>
 </context>
 <context>
@@ -341,152 +341,152 @@
         <location filename="../ui/dialogs/contactdialog.ui" line="14"/>
         <location filename="../ui/dialogs/contactdialog.ui" line="87"/>
         <source>Contact</source>
-        <translation>Contatta</translation>
+        <translation>Контакт</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.ui" line="30"/>
         <source>Identity</source>
-        <translation>Identità</translation>
+        <translation>Самоличност</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.ui" line="36"/>
         <source>Name</source>
-        <translation>Nome</translation>
+        <translation>Име</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.ui" line="45"/>
         <source>&amp;First name</source>
-        <translation>&amp;Nome</translation>
+        <translation>&amp;Име</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.ui" line="58"/>
         <source>&amp;Middle names</source>
-        <translation>&amp;Nome d&apos;arte</translation>
+        <translation>&amp;Средни имена</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.ui" line="71"/>
         <source>&amp;Last name</source>
-        <translation>&amp;Cognome</translation>
+        <translation>&amp;Фамилия</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.ui" line="96"/>
         <source>&amp;Email</source>
-        <translation>&amp;Email</translation>
+        <translation>&amp;Имейл</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.ui" line="109"/>
         <source>&amp;Phone</source>
-        <translation>&amp;Telefono</translation>
+        <translation>&amp;Телефон</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.ui" line="122"/>
         <source>&amp;Collection</source>
-        <translation>&amp;Collezione</translation>
+        <translation>&amp;Колекция</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.ui" line="177"/>
         <source>Address</source>
-        <translation>Indirizzo</translation>
+        <translation>Адрес</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.ui" line="183"/>
         <source>Postal Address</source>
-        <translation>Numero postale</translation>
+        <translation>Пощенски адрес</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.ui" line="192"/>
         <source>&amp;Street</source>
-        <translation>&amp;Strada</translation>
+        <translation>&amp;Улица</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.ui" line="205"/>
         <source>&amp;District</source>
-        <translation>&amp;Distretto</translation>
+        <translation>&amp;Област</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.ui" line="218"/>
         <source>&amp;City</source>
-        <translation>&amp;Cittá</translation>
+        <translation>&amp;Град</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.ui" line="231"/>
         <source>C&amp;ounty</source>
-        <translation>P&amp;aese</translation>
+        <translation>Общ брой</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.ui" line="244"/>
         <source>Post&amp;code</source>
-        <translation>Codice&amp;Postale</translation>
+        <translation>Пощенски код</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.ui" line="257"/>
         <source>Co&amp;untry</source>
-        <translation>Pa&amp;ese</translation>
+        <translation>Държав&amp;а</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.cpp" line="40"/>
         <source>First Name</source>
-        <translation>Nome</translation>
+        <translation>Име</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.cpp" line="41"/>
         <source>Middle Names</source>
-        <translation>Nomi d&apos;arte</translation>
+        <translation>Средни имена</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.cpp" line="42"/>
         <source>Last Name</source>
-        <translation>Cognome</translation>
+        <translation>Фамилия</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.cpp" line="43"/>
         <source>Email</source>
-        <translation>Email</translation>
+        <translation>Имейл</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.cpp" line="44"/>
         <source>Collection</source>
-        <translation>Collezione</translation>
+        <translation>Колекция</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.cpp" line="45"/>
         <source>Street</source>
-        <translation>Strada</translation>
+        <translation>Улица</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.cpp" line="46"/>
         <source>District</source>
-        <translation>Distretto</translation>
+        <translation>Район</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.cpp" line="47"/>
         <source>City</source>
-        <translation>Citta</translation>
+        <translation>Град</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.cpp" line="48"/>
         <source>County</source>
-        <translation>Paese</translation>
+        <translation>Област</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.cpp" line="49"/>
         <source>Postcode</source>
-        <translation>Codice Postale</translation>
+        <translation>Пощенски код</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.cpp" line="50"/>
         <source>Country</source>
-        <translation>Paese</translation>
+        <translation>Държава</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.cpp" line="51"/>
         <source>Phone</source>
-        <translation>Telefono</translation>
+        <translation>Телефон</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/contactdialog.cpp" line="112"/>
         <source>Empty Details</source>
-        <translation>Dettagli vuoti</translation>
+        <translation>Няма подробности</translation>
     </message>
 </context>
 <context>
@@ -494,7 +494,7 @@
     <message>
         <location filename="../domain/contactvalidation.cpp" line="29"/>
         <source>Must enter first and last name</source>
-        <translation>Devi inserire nome e cognome</translation>
+        <translation>Задължително въвеждане на име и фамилия</translation>
     </message>
 </context>
 <context>
@@ -502,149 +502,135 @@
     <message>
         <location filename="../ui/models/contactmodel.cpp" line="209"/>
         <source>First Name</source>
-        <translation>Nome</translation>
+        <translation>Име</translation>
     </message>
     <message>
         <location filename="../ui/models/contactmodel.cpp" line="211"/>
         <source>Middle Names</source>
-        <translation>Nomi d&apos;arte</translation>
+        <translation>Средни имена</translation>
     </message>
     <message>
         <location filename="../ui/models/contactmodel.cpp" line="213"/>
         <source>Last Name</source>
-        <translation>Cognome</translation>
+        <translation>Фамилия</translation>
     </message>
     <message>
         <location filename="../ui/models/contactmodel.cpp" line="215"/>
         <source>Email</source>
-        <translation>Email</translation>
+        <translation>Имейл</translation>
     </message>
     <message>
         <location filename="../ui/models/contactmodel.cpp" line="217"/>
         <source>Street</source>
-        <translation>Strada</translation>
+        <translation>Улица</translation>
     </message>
     <message>
         <location filename="../ui/models/contactmodel.cpp" line="219"/>
         <source>District</source>
-        <translation>Distretto</translation>
+        <translation>Район</translation>
     </message>
     <message>
         <location filename="../ui/models/contactmodel.cpp" line="221"/>
         <source>City</source>
-        <translation>Cittá</translation>
+        <translation>Град</translation>
     </message>
     <message>
         <location filename="../ui/models/contactmodel.cpp" line="223"/>
         <source>County</source>
-        <translation>Paese</translation>
+        <translation>Област</translation>
     </message>
     <message>
         <location filename="../ui/models/contactmodel.cpp" line="225"/>
         <source>Postcode</source>
-        <translation>Codice Postale</translation>
+        <translation>Пощенски код</translation>
     </message>
     <message>
         <location filename="../ui/models/contactmodel.cpp" line="227"/>
         <source>Country</source>
-        <translation>Paese</translation>
+        <translation>Държава</translation>
     </message>
     <message>
         <location filename="../ui/models/contactmodel.cpp" line="229"/>
         <source>Telephone</source>
-        <translation>Telefono</translation>
+        <translation>Телефон</translation>
     </message>
     <message>
         <location filename="../ui/models/contactmodel.cpp" line="231"/>
         <source>Collection</source>
-        <translation>Collezione</translation>
+        <translation>Колекция</translation>
     </message>
 </context>
 <context>
     <name>ContactsPane</name>
     <message>
-        <location filename="../ui/panes/contactspane.ui" line="28"/>
-        <source>Close Find Bar</source>
-        <translation>Chiudi barra di ricerca</translation>
-    </message>
-    <message>
-        <location filename="../ui/panes/contactspane.ui" line="43"/>
-        <location filename="../ui/panes/contactspane.cpp" line="103"/>
+        <location filename="../ui/panes/contactspane.cpp" line="101"/>
         <source>Find Previous</source>
-        <translation>Trova precedente</translation>
+        <translation>Търсене на предходен</translation>
     </message>
     <message>
-        <location filename="../ui/panes/contactspane.ui" line="49"/>
-        <location filename="../ui/panes/contactspane.cpp" line="97"/>
+        <location filename="../ui/panes/contactspane.cpp" line="95"/>
         <source>Find Next</source>
-        <translation>Trova successivo</translation>
+        <translation>Търсене на следващ</translation>
+    </message>
+    <message>
+        <location filename="../ui/panes/contactspane.cpp" line="65"/>
+        <location filename="../ui/panes/contactspane.cpp" line="306"/>
+        <source>New Contact</source>
+        <translation>Нов контакт</translation>
     </message>
     <message>
         <location filename="../ui/panes/contactspane.cpp" line="67"/>
-        <location filename="../ui/panes/contactspane.cpp" line="348"/>
-        <source>New Contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../ui/panes/contactspane.cpp" line="69"/>
         <source>New</source>
-        <translation>Nuovo</translation>
+        <translation>Нов</translation>
     </message>
     <message>
-        <location filename="../ui/panes/contactspane.cpp" line="75"/>
+        <location filename="../ui/panes/contactspane.cpp" line="73"/>
         <source>Edit</source>
-        <translation>Modifica</translation>
+        <translation>Редактиране</translation>
     </message>
     <message>
-        <location filename="../ui/panes/contactspane.cpp" line="80"/>
+        <location filename="../ui/panes/contactspane.cpp" line="78"/>
         <source>Delete</source>
-        <translation>Elimina</translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
-        <location filename="../ui/panes/contactspane.cpp" line="86"/>
-        <location filename="../ui/panes/contactspane.cpp" line="351"/>
+        <location filename="../ui/panes/contactspane.cpp" line="84"/>
+        <location filename="../ui/panes/contactspane.cpp" line="309"/>
         <source>Mail To...</source>
-        <translation type="unfinished">Mail a...</translation>
+        <translation>Изпращане на имейл до...</translation>
     </message>
     <message>
-        <location filename="../ui/panes/contactspane.cpp" line="91"/>
-        <location filename="../ui/panes/contactspane.cpp" line="327"/>
+        <location filename="../ui/panes/contactspane.cpp" line="89"/>
         <source>Find</source>
-        <translation>Trova</translation>
+        <translation>Търсене</translation>
     </message>
     <message>
-        <location filename="../ui/panes/contactspane.cpp" line="114"/>
+        <location filename="../ui/panes/contactspane.cpp" line="112"/>
         <source>Contacts</source>
-        <translation>Contatti</translation>
+        <translation>Контакти</translation>
     </message>
     <message>
-        <location filename="../ui/panes/contactspane.cpp" line="143"/>
+        <location filename="../ui/panes/contactspane.cpp" line="141"/>
         <source>Address Book: %1</source>
-        <translation>Rubrica: %1</translation>
+        <translation>Адресна книга: %1</translation>
     </message>
     <message numerus="yes">
-        <location filename="../ui/panes/contactspane.cpp" line="145"/>
+        <location filename="../ui/panes/contactspane.cpp" line="143"/>
         <source>%n contact(s)</source>
         <translation>
-            <numerusform>%n contatto</numerusform>
-            <numerusform>%n contatti</numerusform>
+            <numerusform>%n контакт</numerusform>
+            <numerusform>%n контакта</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../ui/panes/contactspane.cpp" line="271"/>
-        <location filename="../ui/panes/contactspane.cpp" line="293"/>
-        <source>No more items</source>
-        <translation type="unfinished">Nessun altra voce</translation>
-    </message>
-    <message>
-        <location filename="../ui/panes/contactspane.cpp" line="350"/>
+        <location filename="../ui/panes/contactspane.cpp" line="308"/>
         <source>Edit Contact</source>
-        <translation>Modifica contatto</translation>
+        <translation>Редактиране на контакт</translation>
     </message>
     <message>
-        <location filename="../ui/panes/contactspane.cpp" line="353"/>
+        <location filename="../ui/panes/contactspane.cpp" line="311"/>
         <source>Delete Contact</source>
-        <translation>Elimina contatto</translation>
+        <translation>Изтриване на контакт</translation>
     </message>
 </context>
 <context>
@@ -657,12 +643,12 @@
         <location filename="../ui/panes/contactspanecontroller.cpp" line="180"/>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="194"/>
         <source>Organizer</source>
-        <translation type="unfinished"></translation>
+        <translation>Организатор</translation>
     </message>
     <message>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="51"/>
         <source>No writable address book collection is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма налична адресна книга за запис.</translation>
     </message>
     <message>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="64"/>
@@ -670,7 +656,7 @@
         <location filename="../ui/panes/contactspanecontroller.cpp" line="102"/>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="124"/>
         <source>save</source>
-        <translation type="unfinished">salva</translation>
+        <translation>Запазване</translation>
     </message>
     <message>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="64"/>
@@ -682,59 +668,59 @@
         <location filename="../ui/panes/contactspanecontroller.cpp" line="132"/>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="159"/>
         <source>contact</source>
-        <translation>contatto</translation>
+        <translation>Контакт</translation>
     </message>
     <message>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="83"/>
         <source>edit</source>
-        <translation>modifica</translation>
+        <translation>Редактиране</translation>
     </message>
     <message>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="114"/>
         <source>move</source>
-        <translation type="unfinished">sposta</translation>
+        <translation>Преместване</translation>
     </message>
     <message>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="132"/>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="159"/>
         <source>delete</source>
-        <translation>elimina</translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="146"/>
         <source>selected contact</source>
-        <translation>contatto selezionato</translation>
+        <translation>избран контакт</translation>
     </message>
     <message>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="150"/>
         <source>Delete contact &quot;%1&quot;?</source>
-        <translation type="unfinished">Eliminare il contatto &quot;%1&quot;?</translation>
+        <translation>Изтриване на контакт &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="168"/>
         <source>Select a contact to email.</source>
-        <translation>Seleziona un contatto per inviare un&apos;email.</translation>
+        <translation>Избор на контакт за имейл.</translation>
     </message>
     <message>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="174"/>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="180"/>
         <source>The selected contact does not have an email address.</source>
-        <translation>Il contatto selezionato non ha un indirizzo email.</translation>
+        <translation>Избраният контакт няма имейл адрес.</translation>
     </message>
     <message>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="188"/>
         <source>Enter the subject</source>
-        <translation>Inserisci l&apos;oggetto</translation>
+        <translation>Въвеждане на тема</translation>
     </message>
     <message>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="189"/>
         <source>Enter message</source>
-        <translation>Inserisci il messaggio</translation>
+        <translation>Въвеждане на съобщение</translation>
     </message>
     <message>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="194"/>
         <source>Could not open the default mail application.</source>
-        <translation>Impossibile aprire il programma di posta predefinito.</translation>
+        <translation>Невъзможно е отварянето на приложението за електронна поща по подразбиране.</translation>
     </message>
 </context>
 <context>
@@ -742,12 +728,12 @@
     <message>
         <location filename="../ui/widgets/daytimelinewidget.cpp" line="548"/>
         <source>New event</source>
-        <translation>Nuovo evento</translation>
+        <translation>Ново събитие</translation>
     </message>
     <message>
         <location filename="../ui/widgets/daytimelinewidget.cpp" line="659"/>
         <source>Untitled</source>
-        <translation>Senza titolo</translation>
+        <translation>Без заглавие</translation>
     </message>
 </context>
 <context>
@@ -756,138 +742,138 @@
         <location filename="../ui/dialogs/eventdialog.ui" line="20"/>
         <location filename="../ui/dialogs/eventdialog.cpp" line="100"/>
         <source>Event</source>
-        <translation>Evento</translation>
+        <translation>Събитие</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="29"/>
         <source>Details</source>
-        <translation>Dettagli</translation>
+        <translation>Детайли</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="38"/>
         <source>&amp;Title</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Заглавие</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="51"/>
         <source>&amp;Location</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Местоположение</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="67"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Време</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="76"/>
         <source>&amp;Date</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Дата</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="93"/>
         <source>All &amp;day</source>
-        <translation type="unfinished"></translation>
+        <translation>Цял &amp;ден</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="100"/>
         <source>&amp;Start time</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Начален час</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="113"/>
         <source>&amp;End time</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Краен час</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="126"/>
         <source>Time &amp;zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Час и часова зона</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="142"/>
         <source>Calendar</source>
-        <translation>Calendario</translation>
+        <translation>Календар</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="151"/>
         <source>&amp;Calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Календар</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="164"/>
         <source>Scope</source>
-        <translation type="unfinished"></translation>
+        <translation>Обхват</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="171"/>
         <location filename="../ui/dialogs/eventdialog.cpp" line="128"/>
         <source>All occurrences</source>
-        <translation>Tutti gli eventi</translation>
+        <translation>Всички срещания</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="178"/>
         <source>&amp;Priority</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Приоритет</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="191"/>
         <source>&amp;Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Маркиране</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="204"/>
         <source>&amp;Completed</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Завършени</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="214"/>
         <source>Links</source>
-        <translation>Collegamenti</translation>
+        <translation>Връзки</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="223"/>
         <source>&amp;Attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Прикачен файл</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="250"/>
         <source>Choose attachment file</source>
-        <translation>Scegli file allegato</translation>
+        <translation>Избор на файл за прикачане</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="253"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>Моля, подай текстовете за превод.</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="265"/>
         <source>&amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;URL</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="281"/>
         <source>Notes</source>
-        <translation>Note</translation>
+        <translation>Бележки</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.cpp" line="91"/>
         <source>Empty Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма подробности</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.cpp" line="100"/>
         <source>Edit Event</source>
-        <translation>Modifica evento</translation>
+        <translation>Редактиране на събитие</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.cpp" line="128"/>
         <source>This occurrence</source>
-        <translation>Questo evento</translation>
+        <translation>Това събитие</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.cpp" line="150"/>
         <source>Select Attachment</source>
-        <translation>Seleziona allegato</translation>
+        <translation>Избор на прикачен файл</translation>
     </message>
 </context>
 <context>
@@ -895,12 +881,12 @@
     <message>
         <location filename="../domain/calendarvalidation.cpp" line="32"/>
         <source>Must enter a title</source>
-        <translation>Titolo necessario</translation>
+        <translation>Задължително въвеждане на заглавие</translation>
     </message>
     <message>
         <location filename="../domain/calendarvalidation.cpp" line="36"/>
         <source>End time must be after start time</source>
-        <translation>La fine deve essere dopo l&apos;inizio</translation>
+        <translation>Крайното време трябва да бъде след началното време</translation>
     </message>
 </context>
 <context>
@@ -908,27 +894,27 @@
     <message>
         <location filename="../ui/widgets/findbar.ui" line="18"/>
         <source>Close Find Bar</source>
-        <translation>Chiudi barra di ricerca</translation>
+        <translation>Затваряне на панела за търсене</translation>
     </message>
     <message>
         <location filename="../ui/widgets/findbar.ui" line="33"/>
         <source>Find Previous</source>
-        <translation>Trova precedente</translation>
+        <translation>Търсене на предходен</translation>
     </message>
     <message>
         <location filename="../ui/widgets/findbar.ui" line="39"/>
         <source>Find Next</source>
-        <translation>Trova successivo</translation>
+        <translation>Следващ резултат</translation>
     </message>
     <message>
         <location filename="../ui/widgets/findbar.cpp" line="35"/>
         <source>Find</source>
-        <translation>Trova</translation>
+        <translation>Търсене</translation>
     </message>
     <message>
         <location filename="../ui/widgets/findbar.cpp" line="106"/>
         <source>No more items</source>
-        <translation type="unfinished">Fine</translation>
+        <translation>Няма повече елементи</translation>
     </message>
 </context>
 <context>
@@ -936,17 +922,17 @@
     <message>
         <location filename="../ui/widgets/editorcombos.cpp" line="31"/>
         <source>Always Highlight</source>
-        <translation>Evidenzia sempre</translation>
+        <translation>Винаги да се подчертава</translation>
     </message>
     <message>
         <location filename="../ui/widgets/editorcombos.cpp" line="32"/>
         <source>Never Highlight</source>
-        <translation>Non evidenziare mai</translation>
+        <translation>Без подчертаване</translation>
     </message>
     <message>
         <location filename="../ui/widgets/editorcombos.cpp" line="33"/>
         <source>Highlight Future</source>
-        <translation type="unfinished"></translation>
+        <translation>Маркиране на бъдещи стойности</translation>
     </message>
 </context>
 <context>
@@ -954,7 +940,7 @@
     <message>
         <location filename="../app/application.cpp" line="82"/>
         <source>Open new window</source>
-        <translation>Apri nuova finestra</translation>
+        <translation>Отваряне на нов прозорец</translation>
     </message>
 </context>
 <context>
@@ -962,214 +948,214 @@
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="43"/>
         <source>Calendar</source>
-        <translation>Calendario</translation>
+        <translation>Календар</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="48"/>
         <source>Contacts</source>
-        <translation>Contatti</translation>
+        <translation>Контакти</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="74"/>
         <source>File</source>
-        <translation>File</translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="87"/>
         <location filename="../ui/shell/mainwindow.ui" line="210"/>
         <source>Edit</source>
-        <translation>Modifica</translation>
+        <translation>Редактиране</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="123"/>
         <source>Help</source>
-        <translation>Aiuto</translation>
+        <translation>Помощ</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="169"/>
         <source>Exit</source>
-        <translation>Esci</translation>
+        <translation>Изход</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="240"/>
         <source>New Contact</source>
-        <translation>Nuovo contatto</translation>
+        <translation>Нов контакт</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="14"/>
         <location filename="../ui/shell/mainwindow.cpp" line="772"/>
         <source>Organizer</source>
-        <translation type="unfinished"></translation>
+        <translation>Органайзер</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="66"/>
         <location filename="../ui/shell/mainwindow.cpp" line="282"/>
         <source>New</source>
-        <translation>Nuovo</translation>
+        <translation>Нов</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="100"/>
         <source>View</source>
-        <translation type="unfinished">Visualizza</translation>
+        <translation>Изглед</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="114"/>
         <source>Actions</source>
-        <translation type="unfinished">Azioni</translation>
+        <translation>Действия</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="178"/>
         <source>New Event</source>
-        <translation>Nuovo evento</translation>
+        <translation>Ново събитие</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="187"/>
         <source>New Window</source>
-        <translation>Nuova finestra</translation>
+        <translation>Нов прозорец</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="196"/>
         <source>Close Window</source>
-        <translation>Chiudi finestra</translation>
+        <translation>Затваряне на прозореца</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="201"/>
         <source>New Task</source>
-        <translation>Nuovo compito</translation>
+        <translation>Нова задача</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="219"/>
         <source>Delete</source>
-        <translation>Elimina</translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="231"/>
         <location filename="../ui/shell/mainwindow.cpp" line="523"/>
         <source>Full View</source>
-        <translation type="unfinished"></translation>
+        <translation>Пълен изглед</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="249"/>
         <source>Mail To...</source>
-        <translation type="unfinished">Mail a...</translation>
+        <translation>Изпращане по имейл...</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="258"/>
         <source>Find</source>
-        <translation>Trova</translation>
+        <translation>Търсене</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="267"/>
         <source>Find Next</source>
-        <translation>Trova successivo</translation>
+        <translation>Търсене на следващ</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="276"/>
         <source>Find Previous</source>
-        <translation>Trova precedente</translation>
+        <translation>Предишно търсене</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="285"/>
         <source>Next Month</source>
-        <translation type="unfinished">Mese successivo</translation>
+        <translation>Следващ месец</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="294"/>
         <source>Previous Month</source>
-        <translation type="unfinished">Mese precedente</translation>
+        <translation>Предишен месец</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="299"/>
         <location filename="../ui/shell/mainwindow.cpp" line="292"/>
         <source>Today</source>
-        <translation>Oggi</translation>
+        <translation>Днес</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="308"/>
         <source>About</source>
-        <translation>Informazioni</translation>
+        <translation>Относно</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="317"/>
         <source>Preferences</source>
-        <translation>Preferenze</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="326"/>
         <source>Increase Font</source>
-        <translation>Ingrandisci carattere</translation>
+        <translation>Увеличаване на шрифта</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="335"/>
         <source>Decrease Font</source>
-        <translation>Riduci carattere</translation>
+        <translation>Намаляване на шрифта</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.ui" line="344"/>
         <source>Reset Font</source>
-        <translation>Ripristina carattere</translation>
+        <translation>Нулиране на шрифта</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.cpp" line="119"/>
         <location filename="../ui/shell/mainwindow.cpp" line="279"/>
         <source>LXQt Organizer</source>
-        <translation type="unfinished"></translation>
+        <translation>Организатор на LXQt</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.cpp" line="283"/>
         <source>Task</source>
-        <translation type="unfinished">Compito</translation>
+        <translation>Задача</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.cpp" line="321"/>
         <source>Create an event. Use the menu for tasks and contacts.</source>
-        <translation>Crea un evento. Usa il menù per compiti e contatti.</translation>
+        <translation>Създаване на събитие. Използване на менюто за задачи и контакти.</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.cpp" line="772"/>
         <source>Could not initialize calendar and contact storage.</source>
-        <translation>Impossibile inizializzare il calendario e l&apos;archiviazione dei contatti.</translation>
+        <translation>Неуспешно инициализиране на съхранението на календара и контактите.</translation>
     </message>
     <message numerus="yes">
         <location filename="../ui/shell/mainwindow.cpp" line="436"/>
         <source>%n item(s) could not be loaded.</source>
         <translation>
-            <numerusform>Non è stato possibile caricare %n oggetto.</numerusform>
-            <numerusform>Non è stato possibile caricare %n oggetti.</numerusform>
+            <numerusform>%n елемент не можа да бъде зареден.</numerusform>
+            <numerusform>%n елемента не можаха да бъдат заредени.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../ui/shell/mainwindow.cpp" line="437"/>
         <source>%n item(s) could not be loaded. First error: %1</source>
         <translation>
-            <numerusform>Non è stato possibile caricare %n oggetto. Primo errore: %1</numerusform>
-            <numerusform>Non è stato possibile caricare %n oggetti. Primo errore: %1</numerusform>
+            <numerusform>%n елемент не можа да бъде зареден. Първа грешка: %1</numerusform>
+            <numerusform>%n елемента не можаха да бъдат заредени. Първа грешка: %1</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.cpp" line="524"/>
         <source>Show full contact view</source>
-        <translation type="unfinished">Mostra contatto completo</translation>
+        <translation>Пълен изглед на контакта</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.cpp" line="525"/>
         <source>Show quick contact view</source>
-        <translation type="unfinished">Mostra anteprima contatto</translation>
+        <translation>Показване на бърз изглед на контактите</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.cpp" line="530"/>
         <source>Tasks</source>
-        <translation type="unfinished">Compiti</translation>
+        <translation>Задачи</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.cpp" line="531"/>
         <source>Hide tasks</source>
-        <translation type="unfinished">Nascondi compiti</translation>
+        <translation>Скриване на задачите</translation>
     </message>
     <message>
         <location filename="../ui/shell/mainwindow.cpp" line="531"/>
         <source>Show tasks</source>
-        <translation type="unfinished">Mostra compiti</translation>
+        <translation>Показване на задачите</translation>
     </message>
 </context>
 <context>
@@ -1178,29 +1164,29 @@
         <location filename="../ui/widgets/monthchromewidget.ui" line="36"/>
         <location filename="../ui/widgets/monthchromewidget.cpp" line="57"/>
         <source>Prev</source>
-        <translation type="unfinished"></translation>
+        <translation>Предишен</translation>
     </message>
     <message>
         <location filename="../ui/widgets/monthchromewidget.ui" line="47"/>
         <location filename="../ui/widgets/monthchromewidget.cpp" line="58"/>
         <source>Today</source>
-        <translation>Oggi</translation>
+        <translation>Днес</translation>
     </message>
     <message>
         <location filename="../ui/widgets/monthchromewidget.ui" line="58"/>
         <location filename="../ui/widgets/monthchromewidget.cpp" line="59"/>
         <source>Next</source>
-        <translation>Prossimo</translation>
+        <translation>Следващ</translation>
     </message>
     <message>
         <location filename="../ui/widgets/monthchromewidget.cpp" line="84"/>
         <source>New Event</source>
-        <translation>Nuovo evento</translation>
+        <translation>Ново събитие</translation>
     </message>
     <message>
         <location filename="../ui/widgets/monthchromewidget.cpp" line="86"/>
         <source>New Task</source>
-        <translation type="unfinished">Nuovo compito</translation>
+        <translation>Нова задача</translation>
     </message>
 </context>
 <context>
@@ -1209,42 +1195,42 @@
         <location filename="../ui/dialogs/preferencesdialog.ui" line="14"/>
         <location filename="../ui/dialogs/preferencesdialog.cpp" line="84"/>
         <source>Preferences</source>
-        <translation>Preferenze</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/preferencesdialog.ui" line="23"/>
         <location filename="../ui/dialogs/preferencesdialog.cpp" line="85"/>
         <source>Display</source>
-        <translation>Visualizzazione</translation>
+        <translation>Екран</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/preferencesdialog.ui" line="32"/>
         <location filename="../ui/dialogs/preferencesdialog.cpp" line="86"/>
         <source>&amp;Calendar font size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер на шрифта на календара:</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/preferencesdialog.ui" line="42"/>
         <source> px</source>
-        <translation type="unfinished"></translation>
+        <translation> px</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/preferencesdialog.ui" line="55"/>
         <location filename="../ui/dialogs/preferencesdialog.cpp" line="87"/>
         <source>Day view &amp;starts:</source>
-        <translation type="unfinished"></translation>
+        <translation>Начало на дневен изглед:</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/preferencesdialog.ui" line="65"/>
         <location filename="../ui/dialogs/preferencesdialog.ui" line="85"/>
         <source>h:00 AP</source>
-        <translation type="unfinished"></translation>
+        <translation>h:00</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/preferencesdialog.ui" line="75"/>
         <location filename="../ui/dialogs/preferencesdialog.cpp" line="88"/>
         <source>Day view &amp;ends:</source>
-        <translation type="unfinished"></translation>
+        <translation>Край на дневен изглед:</translation>
     </message>
 </context>
 <context>
@@ -1252,17 +1238,17 @@
     <message>
         <location filename="../ui/widgets/editorcombos.cpp" line="53"/>
         <source>Low</source>
-        <translation>Basso</translation>
+        <translation>Нисък</translation>
     </message>
     <message>
         <location filename="../ui/widgets/editorcombos.cpp" line="54"/>
         <source>Medium</source>
-        <translation>Medio</translation>
+        <translation>Среден</translation>
     </message>
     <message>
         <location filename="../ui/widgets/editorcombos.cpp" line="55"/>
         <source>High</source>
-        <translation>Alto</translation>
+        <translation>Висок</translation>
     </message>
 </context>
 <context>
@@ -1271,170 +1257,170 @@
         <location filename="../ui/messages/storageerrormessages.cpp" line="51"/>
         <source>The storage item name is invalid.</source>
         <comment>StorageErrorMessages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Името на елемента за съхранение е невалидно.</translation>
     </message>
     <message>
         <location filename="../ui/messages/storageerrormessages.cpp" line="53"/>
         <source>The item no longer exists in its collection.</source>
         <comment>StorageErrorMessages</comment>
-        <translation type="unfinished">L&apos;oggetto non esiste più in questa collezione.</translation>
+        <translation>Елементът вече не съществува в своята колекция.</translation>
     </message>
     <message>
         <location filename="../ui/messages/storageerrormessages.cpp" line="55"/>
         <source>The collection is read-only or unavailable.</source>
         <comment>StorageErrorMessages</comment>
-        <translation type="unfinished">La collezione è in sola lettura o non disponibile.</translation>
+        <translation>Колекцията е само за четене или недостъпна.</translation>
     </message>
     <message>
         <location filename="../ui/messages/storageerrormessages.cpp" line="57"/>
         <source>The file was changed by another process.</source>
         <comment>StorageErrorMessages</comment>
-        <translation type="unfinished">Il file è stato modificato da un altro processo.</translation>
+        <translation>Файлът е променен от друг процес.</translation>
     </message>
     <message>
         <location filename="../ui/messages/storageerrormessages.cpp" line="59"/>
         <source>The file could not be parsed.</source>
         <comment>StorageErrorMessages</comment>
-        <translation type="unfinished">Non è stato possibile analizzare il file.</translation>
+        <translation>Файлът не можа да бъде анализиран.</translation>
     </message>
     <message>
         <location filename="../ui/messages/storageerrormessages.cpp" line="61"/>
         <source>The item uses an unsupported format.</source>
         <comment>StorageErrorMessages</comment>
-        <translation type="unfinished">L&apos;oggetto usa un formato non supportato.</translation>
+        <translation>Елементът използва неподдържан формат.</translation>
     </message>
     <message>
         <location filename="../ui/messages/storageerrormessages.cpp" line="63"/>
         <location filename="../ui/messages/storageerrormessages.cpp" line="65"/>
         <source>The file could not be read or written.</source>
         <comment>StorageErrorMessages</comment>
-        <translation>Non è stato possibile leggere o scrivere il file.</translation>
+        <translation>Файлът не може да бъде прочетен или записан.</translation>
     </message>
     <message>
         <location filename="../ui/messages/storageerrormessages.cpp" line="73"/>
         <source>Could not %1 %2.</source>
         <comment>StorageErrorMessages</comment>
-        <translation type="unfinished">Non è stato possibile %1 %2.</translation>
+        <translation>Неуспешно %1 на %2.</translation>
     </message>
     <message>
         <location filename="../ui/messages/storageerrormessages.cpp" line="75"/>
         <source>Could not %1 %2. %3</source>
         <comment>StorageErrorMessages</comment>
-        <translation type="unfinished">Non è stato possibile %1 %2. %3</translation>
+        <translation>Грешка при %1 на %2. %3</translation>
     </message>
     <message>
         <location filename="../ui/messages/storageerrormessages.cpp" line="85"/>
         <source>save</source>
         <comment>StorageErrorMessages</comment>
-        <translation>salva</translation>
+        <translation>Записване</translation>
     </message>
     <message>
         <location filename="../ui/messages/storageerrormessages.cpp" line="89"/>
         <source>Could not save %1 in the destination collection. %2</source>
         <comment>StorageErrorMessages</comment>
-        <translation type="unfinished">Non è stato possibile salvare %1 nella collezione di destinazione. %2</translation>
+        <translation>Грешка при записване на %1 в целевата колекция. %2</translation>
     </message>
     <message>
         <location filename="../ui/messages/storageerrormessages.cpp" line="94"/>
         <source>Could not remove the original %1 after copying it to the destination collection. %2</source>
         <comment>StorageErrorMessages</comment>
-        <translation type="unfinished">Non è stato possibile rimuovere il %1 originale dopo averlo copiato nella collezione di destinazione. %2</translation>
+        <translation>Неуспешно премахване на оригиналния %1 след копирането му в целевата колекция. %2</translation>
     </message>
     <message>
         <location filename="../ui/messages/storageerrormessages.cpp" line="98"/>
         <source>The destination copy was removed.</source>
         <comment>StorageErrorMessages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Копието в целта беше премахнато.</translation>
     </message>
     <message>
         <location filename="../ui/messages/storageerrormessages.cpp" line="102"/>
         <source>Could not remove the original %1 after copying it to the destination collection. %2 The destination copy could not be removed. %3</source>
         <comment>StorageErrorMessages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно премахване на оригиналния %1 след копирането му в целевата колекция. %2 Неуспешно премахване на целеното копие. %3</translation>
     </message>
     <message>
         <location filename="../ui/messages/storageerrormessages.cpp" line="135"/>
         <source>Organizer</source>
         <comment>StorageErrorMessages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Организатор</translation>
     </message>
     <message>
         <location filename="../ui/messages/operationcapabilitymessages.cpp" line="33"/>
         <source>The selected item could not be loaded.</source>
         <comment>OperationCapabilityMessages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Избраният елемент не можа да бъде зареден.</translation>
     </message>
     <message>
         <location filename="../ui/messages/operationcapabilitymessages.cpp" line="35"/>
         <source>The collection is no longer available.</source>
         <comment>OperationCapabilityMessages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Колекцията вече не е налична.</translation>
     </message>
     <message>
         <location filename="../ui/messages/operationcapabilitymessages.cpp" line="37"/>
         <source>The source collection is read-only or unavailable.</source>
         <comment>OperationCapabilityMessages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Източникната колекция е само за четене или недостъпна.</translation>
     </message>
     <message>
         <location filename="../ui/messages/operationcapabilitymessages.cpp" line="39"/>
         <source>The destination collection is read-only or unavailable.</source>
         <comment>OperationCapabilityMessages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Целевата колекция е само за четене или недостъпна.</translation>
     </message>
     <message>
         <location filename="../ui/messages/operationcapabilitymessages.cpp" line="41"/>
         <source>The item uses an unsupported format.</source>
         <comment>OperationCapabilityMessages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Елементът използва неподдържан формат.</translation>
     </message>
     <message>
         <location filename="../ui/messages/operationcapabilitymessages.cpp" line="43"/>
         <source>This recurring series operation is not supported.</source>
         <comment>OperationCapabilityMessages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Тази повтаряща се серия от операции не се поддържа.</translation>
     </message>
     <message>
         <location filename="../ui/messages/operationcapabilitymessages.cpp" line="45"/>
         <source>This recurring occurrence operation is not supported.</source>
         <comment>OperationCapabilityMessages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Тази операция за повтарящо се събитие не се поддържа.</translation>
     </message>
     <message>
         <location filename="../ui/messages/operationcapabilitymessages.cpp" line="47"/>
         <source>The item may have changed since it was loaded.</source>
         <comment>OperationCapabilityMessages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Елементът може да е бил променен след зареждането му.</translation>
     </message>
     <message>
         <location filename="../ui/messages/operationcapabilitymessages.cpp" line="49"/>
         <source>The collection storage path is unavailable.</source>
         <comment>OperationCapabilityMessages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Пътят за съхранение на колекцията е недостъпен.</translation>
     </message>
     <message>
         <location filename="../ui/messages/operationcapabilitymessages.cpp" line="51"/>
         <source>The operation cannot be performed.</source>
         <comment>OperationCapabilityMessages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Операцията не може да бъде изпълнена.</translation>
     </message>
     <message>
         <location filename="../ui/messages/operationcapabilitymessages.cpp" line="65"/>
         <source>Could not %1 %2.</source>
         <comment>OperationCapabilityMessages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно %1 на %2.</translation>
     </message>
     <message>
         <location filename="../ui/messages/operationcapabilitymessages.cpp" line="67"/>
         <source>Could not %1 %2. %3</source>
         <comment>OperationCapabilityMessages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно %1 на %2. %3</translation>
     </message>
     <message>
         <location filename="../ui/messages/operationcapabilitymessages.cpp" line="80"/>
         <source>Organizer</source>
         <comment>OperationCapabilityMessages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Организатор</translation>
     </message>
 </context>
 <context>
@@ -1442,82 +1428,82 @@
     <message>
         <location filename="../ui/dialogs/taskdialog.ui" line="20"/>
         <source>Task</source>
-        <translation type="unfinished"></translation>
+        <translation>Задача</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/taskdialog.ui" line="29"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробности</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/taskdialog.ui" line="38"/>
         <source>&amp;Title</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Заглавие</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/taskdialog.ui" line="54"/>
         <source>Due</source>
-        <translation type="unfinished"></translation>
+        <translation>Срок</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/taskdialog.ui" line="65"/>
         <source>Set &amp;due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Задаване на краен &amp;срок</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/taskdialog.ui" line="72"/>
         <source>&amp;Date</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Дата</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/taskdialog.ui" line="89"/>
         <source>&amp;Time</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Време</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/taskdialog.ui" line="107"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Свойства</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/taskdialog.ui" line="116"/>
         <source>&amp;List</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Списък</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/taskdialog.ui" line="129"/>
         <source>&amp;Priority</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Приоритет</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/taskdialog.ui" line="142"/>
         <source>&amp;Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Маркиране</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/taskdialog.ui" line="155"/>
         <source>&amp;Completed</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Завършени</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/taskdialog.ui" line="162"/>
         <source>If the due date passes before completion, move it to today. Stored with the task.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ако крайният срок изтече преди завършване, преместване към днес. Запазва се със задачата.</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/taskdialog.ui" line="165"/>
         <source>&amp;Roll forward when overdue</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Пренасочване при изтичане на срока</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/taskdialog.ui" line="175"/>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Бележки</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/taskdialog.cpp" line="78"/>
         <source>Empty Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма подробности</translation>
     </message>
 </context>
 <context>
@@ -1525,7 +1511,7 @@
     <message>
         <location filename="../domain/calendarvalidation.cpp" line="45"/>
         <source>Must enter a title</source>
-        <translation type="unfinished"></translation>
+        <translation>Задължително въвеждане на заглавие</translation>
     </message>
 </context>
 <context>
@@ -1533,37 +1519,37 @@
     <message>
         <location filename="../ui/models/tasklistmodel.cpp" line="60"/>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>Без заглавие</translation>
     </message>
     <message>
         <location filename="../ui/models/tasklistmodel.cpp" line="82"/>
         <source>Collection: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Колекция: %1</translation>
     </message>
     <message>
         <location filename="../ui/models/tasklistmodel.cpp" line="226"/>
         <source>Task: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Задача: %1</translation>
     </message>
     <message>
         <location filename="../ui/models/tasklistmodel.cpp" line="229"/>
         <source>Due: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Срок: %1</translation>
     </message>
     <message>
         <location filename="../ui/models/tasklistmodel.cpp" line="325"/>
         <source>Completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Завършени</translation>
     </message>
     <message>
         <location filename="../ui/models/tasklistmodel.cpp" line="327"/>
         <source>Task</source>
-        <translation type="unfinished"></translation>
+        <translation>Задача</translation>
     </message>
     <message>
         <location filename="../ui/models/tasklistmodel.cpp" line="329"/>
         <source>Collection</source>
-        <translation type="unfinished"></translation>
+        <translation>Колекция</translation>
     </message>
 </context>
 <context>
@@ -1571,37 +1557,37 @@
     <message>
         <location filename="../ui/widgets/tasklistwidget.ui" line="13"/>
         <source>Add a task. Press Enter to save.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавяне на задача. Натиснете Enter за записване.</translation>
     </message>
     <message>
         <location filename="../ui/widgets/tasklistwidget.ui" line="14"/>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавяне на задача</translation>
     </message>
     <message>
         <location filename="../ui/widgets/tasklistwidget.cpp" line="121"/>
         <source>New Task</source>
-        <translation type="unfinished"></translation>
+        <translation>Нова задача</translation>
     </message>
     <message>
         <location filename="../ui/widgets/tasklistwidget.cpp" line="123"/>
         <source>Edit Task</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактиране на задача</translation>
     </message>
     <message>
         <location filename="../ui/widgets/tasklistwidget.cpp" line="127"/>
         <source>Mark as Not Completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Отбелязване като незавършено</translation>
     </message>
     <message>
         <location filename="../ui/widgets/tasklistwidget.cpp" line="127"/>
         <source>Mark as Completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Маркиране като завършено</translation>
     </message>
     <message>
         <location filename="../ui/widgets/tasklistwidget.cpp" line="129"/>
         <source>Delete Task</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване на задача</translation>
     </message>
 </context>
 </TS>
