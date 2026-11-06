@@ -705,22 +705,22 @@
         <location filename="../ui/panes/contactspanecontroller.cpp" line="174"/>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="180"/>
         <source>The selected contact does not have an email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilen kişinin e-posta adresi yok.</translation>
     </message>
     <message>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="188"/>
         <source>Enter the subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Konuyu girin</translation>
     </message>
     <message>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="189"/>
         <source>Enter message</source>
-        <translation type="unfinished"></translation>
+        <translation>İleti girin</translation>
     </message>
     <message>
         <location filename="../ui/panes/contactspanecontroller.cpp" line="194"/>
         <source>Could not open the default mail application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varsayılan e-posta uygulaması açılamadı.</translation>
     </message>
 </context>
 <context>
@@ -728,12 +728,12 @@
     <message>
         <location filename="../ui/widgets/daytimelinewidget.cpp" line="548"/>
         <source>New event</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni etkinlik</translation>
     </message>
     <message>
         <location filename="../ui/widgets/daytimelinewidget.cpp" line="659"/>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>İsimsiz</translation>
     </message>
 </context>
 <context>
@@ -742,37 +742,37 @@
         <location filename="../ui/dialogs/eventdialog.ui" line="20"/>
         <location filename="../ui/dialogs/eventdialog.cpp" line="100"/>
         <source>Event</source>
-        <translation type="unfinished"></translation>
+        <translation>Etkinlik</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="29"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayrıntılar</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="38"/>
         <source>&amp;Title</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Başlık</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="51"/>
         <source>&amp;Location</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Konum</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="67"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaman</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="76"/>
         <source>&amp;Date</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tarih</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="93"/>
         <source>All &amp;day</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm &amp;gün</translation>
     </message>
     <message>
         <location filename="../ui/dialogs/eventdialog.ui" line="100"/>
